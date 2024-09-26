@@ -305,7 +305,7 @@ header {
 
 /* Images of the videos */
 #image_video {
-    background-image: url(./images/play.png), url(./images/preview.png);
+    background-image: url(./images/play.png), url(./images/diagonal-smile.png);
     background-repeat: no-repeat;
     background-position-y: center;
     background-position-x: center;
@@ -313,7 +313,7 @@ header {
     height: 154px;
 }
 #image_video1 {
-    background-image: url(./images/play.png), url(./images/preview\ \(1\).png);
+    background-image: url(./images/play.png), url(./images/sad-smile.png);
     background-repeat: no-repeat;
     background-position-y: center;
     background-position-x: center;
@@ -321,7 +321,7 @@ header {
     height: 154px;
 }
 #image_video2 {
-    background-image: url(./images/play.png), url(./images/preview\ \(2\).png);
+    background-image: url(./images/play.png), url(./images/natural-smile.png);
     background-repeat: no-repeat;
     background-position-y: center;
     background-position-x: center;
@@ -329,7 +329,7 @@ header {
     height: 154px;
 }
 #image_video3 {
-    background-image: url(./images/play.png), url(./images/preview\ \(3\).png);
+    background-image: url(./images/play.png), url(./images/happy-smile.png);
     background-repeat: no-repeat;
     background-position-y: center;
     background-position-x: center;
